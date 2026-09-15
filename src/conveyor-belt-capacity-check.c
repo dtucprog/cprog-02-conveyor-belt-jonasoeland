@@ -4,6 +4,7 @@ int MOTOR_CAPACITY = 12;
 
 int main() {
     int motorCount, totalPackageWeight;
+    /// YOUR CODE HERE
     printf ("How many motors are carrying the packages?\n");
     scanf ("%d", &motorCount);
     /// Hvor mange motorer der er til at bære pakkerne. Outputtet er printf og scanf tager svaret ind.
